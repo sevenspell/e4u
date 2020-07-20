@@ -58,7 +58,7 @@ function About() {
                             While the Enneagram is a useful guide on our journey towards self-development, relationship building, conflict resolution and the improvement of team dynamics, it is not aimed at "boxing", limiting or categorising any person. As individuals, we are more complex, unique, and distinct than what our Enneagram style reflects. Through Enneagram work, we can all become a little better with higher self-awareness and more empathy for others.
                         </Typography>
                         <Typography variant="body1" className={classes.paragraph}>
-                            Get started <a href="/enneagram">here</a> by finding out more about the nine Enneagram Types.
+                            Get started <a href="/e4u/enneagram">here</a> by finding out more about the nine Enneagram Types.
                         </Typography>
                         <Typography variant="caption" className={classes.caption}>
                             Information source: <a href="https://www.integrative9.com/" target="blank" rel="noopener noreferrer">Integrative9 Enneagram Solutions</a>.
