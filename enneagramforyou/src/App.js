@@ -13,8 +13,8 @@ function App() {
             <BrowserRouter>
                 <Navbar />
                 <div>
-                    <Route exact path="/" component={About} />
-                    <Route exact path="/enneagram" component={Enneagram} />
+                    <Route exact path="/e4u" component={About} />
+                    <Route exact path="/e4u/enneagram" component={Enneagram} />
                 </div>
                 <Footer />
             </BrowserRouter>

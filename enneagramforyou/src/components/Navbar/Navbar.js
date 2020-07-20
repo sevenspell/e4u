@@ -46,8 +46,8 @@ function Navbar() {
                     <Typography variant="h6" className={classes.title}>
                         Enneagram For You
                     </Typography>
-                    <Button color="inherit" href="/" className={classes.links}>About Enneagram</Button>
-                    <Button color="inherit" href="/enneagram" className={classes.links}>Enneagram Types</Button>
+                    <Button color="inherit" href="/e4u" className={classes.links}>About Enneagram</Button>
+                    <Button color="inherit" href="/e4u/enneagram" className={classes.links}>Enneagram Types</Button>
                 </Toolbar>
             </AppBar>
         </div>

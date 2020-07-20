@@ -44,7 +44,7 @@ function Footer() {
             <AppBar position="fixed" className={classes.main} >
                 <Typography className={classes.footer} variant="body2" >
                     {'Copyright © '}
-                    <Link color="inherit" href="/">
+                    <Link color="inherit" href="/e4u">
                         Enneagram For You
                     </Link>
                     {' '}
